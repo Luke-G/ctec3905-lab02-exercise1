@@ -1,0 +1,45 @@
+header, footer {
+  background-color: rgb(212, 212, 212);
+  text-align: center;
+  padding: 8px;
+}
+
+body {
+  font-family: 'Calibri', sans-serif;
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Arial', sans-serif;
+}
+
+nav {
+  text-align: center;
+}
+
+nav ul li {
+  display: inline-block;
+  font-size: 18px;
+  padding: 8px;
+  text-transform: uppercase;
+  background-color: rgb(212, 212, 212);
+}
+
+table {
+  width: 100%;
+  text-align: center;
+}
+
+table td {
+  padding: 4px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: darkblue;
+  font-weight: bold;
+}
